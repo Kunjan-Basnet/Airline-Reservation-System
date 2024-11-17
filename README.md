@@ -1,1 +1,1 @@
-A Flight ticket booking system developed using HTML, CSS, Javascript and PHP.
+A Flight ticket booking system developed using HTML, CSS, Javascript, PHP and SQL.
